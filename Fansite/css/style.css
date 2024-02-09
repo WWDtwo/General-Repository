@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(240, 240, 240);
+}
+
+p, table {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+h1 {
+  font-family: 'Sixtyfour', sans-serif;
+  color: rgb(153, 153, 153);
+}
+
+.headbox {
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+tr {
+  background-color: white;
+}
+
+table {
+  background-color: rgb(153, 153, 153);
+}
+
+img {
+  margin: 0 0 20px 0;
+}
+
+.intro {
+  background-color: white;
+  text-align: center;
+}
+
+.introheader {
+  font-family: 'Sixtyfour', sans-serif;
+  color: rgb(153, 153, 153);
+  padding: 20px 0 20px 0;
+}
+
+.Wiipic {
+  align-items: center;
+  padding: 0 0 10px 0;
+}
