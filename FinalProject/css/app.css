@@ -1,0 +1,74 @@
+* {
+    font-family: "Montserrat", sans-serif;
+}
+
+/* Top of page */
+
+.page-head {
+    background-color: #CC78F0;
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px black solid;
+}
+
+.page-title {
+    padding: 10px;
+}
+
+.page-title h1{
+    font-family: "DM Serif Display", serif;
+    font-size: 100px;
+}
+
+/* Copy box */
+
+.copy-container {
+    margin: 20px 0px 20px 0px;
+    padding: 10px;
+    border: 1px black solid;
+    background-color: #E4C8F0;
+}
+
+.body-copy {
+    font-size: 20px;
+    font-weight: 450;
+}
+
+/* Image box */
+
+.image-container {
+    margin: 20px 0px 20px 0px;
+    border: 1px black solid;
+    border-radius: 15px;
+    background-color: #F078EA;
+    align-items: center;
+}
+
+.image-frame {
+    width: 100%;
+}
+
+.image-frame img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    width: 100%;
+}
+
+.caption p {
+    font-size: 11px;
+    margin: 5px;
+}
+
+/* Section Titles */
+
+.section-title {
+    margin: 10px;
+    text-align: center;
+}
+
+.section-title h2 {
+    font-family: "DM Serif Display", serif;
+    font-size: 45px;
+    font-weight: 600;
+    color: #A578F0;
+}
